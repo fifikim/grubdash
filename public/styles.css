@@ -1,0 +1,8 @@
+#logo {
+  font-family: 'Chango', cursive;
+}
+
+.stretch {
+  display: flex;
+  align-items: stretch;
+}
